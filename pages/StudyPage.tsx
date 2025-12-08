@@ -161,7 +161,7 @@ const PresentationViewer: React.FC<{ presentation: PresentationContent }> = ({ p
 };
 
 
-export const StudyPage: React.FC = () => {
+const StudyPage: React.FC = () => {
     const { contentId } = useParams<{ contentId: string }>();
     const navigate = useNavigate();
     const { getStudyMaterialById, updateStudyMaterial } = useUploadedContent();
@@ -529,3 +529,5 @@ export const StudyPage: React.FC = () => {
         </div>
     );
 };
+
+export default StudyPage;
