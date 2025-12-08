@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Ameenav2</h1>
+  <h1>Ameena-AI</h1>
   <p>AI-powered study and quiz assistant built with React + Vite + TypeScript.</p>
 </div>
 
