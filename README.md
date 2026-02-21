@@ -7,7 +7,7 @@
 
 Ameenav2 is a lightweight web app that helps you learn faster using Gemini-powered prompts, quick quizzes, and study workflows. It ships with a clean UI, dark mode, and sensible defaults.
 
-## Features
+## Features in this project 
 
 - Study and quiz pages wired to an AI backend
 - Mermaid diagrams component for visualizations
