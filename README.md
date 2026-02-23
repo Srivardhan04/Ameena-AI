@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ameena-AI
-  <p>AI-powered study and quiz assistant built with React + Vite + TypeScript.</p>
+  <p>AI-powered study and quiz assistant built with React + Vite + TypeScript</p>
 </div>
 
 ## Overview
